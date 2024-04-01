@@ -1,0 +1,6 @@
+ErrorDocument 404 "c:/Users/sambo/OneDrive/Bureau/portfolio/error/404.php"
+<Directory "C:\Users\sambo\OneDrive\Bureau\portfolio">
+    Options Indexes FollowSymLinks
+    AllowOverride All
+    Require all granted
+</Directory>
